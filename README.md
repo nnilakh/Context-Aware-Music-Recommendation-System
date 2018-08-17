@@ -30,9 +30,13 @@ Following are the different jar files/libraries required to be included to run m
 
 
 Step 1: Import the project
+
 Step 2: Add the libraries
+
 Step 3: Maven Build
+
 Step 4: Run on Server
+
 Step 5: Go to http://localhost:8080/RESTfulExample/signup.jsp / http://localhost:8080/RESTfulExample/login.jsp
 		
 
